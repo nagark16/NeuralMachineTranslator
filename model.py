@@ -9,7 +9,7 @@ class ChatBotModel:
     def __init__(self, forward_only, batch_size):
         """forward_only: if set, we do not construct the backward pass in the model.
         """
-        print('Initialize new model ')
+        print('Initialize new model')
         self.fw_only = forward_only
         self.batch_size = batch_size
 

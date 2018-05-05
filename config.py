@@ -8,7 +8,7 @@ CPT_PATH = 'checkpoints'
 DEC_VOCAB = 18778
 ENC_VOCAB = 41303
 THRESHOLD = 2
-TEST = 3
+
 PAD_ID = 0
 UNK_ID = 1
 START_ID = 2
